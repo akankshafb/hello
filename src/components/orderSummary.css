@@ -1,0 +1,10 @@
+.bgWhite{
+    background-color: white;
+}
+.HeaderStyle{
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+}
+.rightBorder{
+    border-right: 2px solid #eee;
+}

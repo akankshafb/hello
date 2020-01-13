@@ -1,0 +1,55 @@
+.Regularprice{
+    float: left;
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+.Saleprice{
+    float: left;
+    padding-left: 10px;
+    font-weight: bold;
+    
+
+}
+.addToCartBtn{
+    /* float: right; */
+    background-color: yellow !important;
+    color: #000000 !important;
+    font-weight: bold;
+    border: 1px solid yellowgreen !important;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 12px;
+
+    
+}
+p{
+    text-align: left;
+}
+.itemBox{
+    border: 1px solid #b9b7b7;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-bottom: 20px;
+}
+.margin-top20{
+    margin-top:20px;
+}
+.itemDetail{
+    display: inline-block;
+    width: 100%;
+    background: #ffffff;
+    padding: 5px 10px; 
+}
+.redStrike{
+    color:red;
+}
+.productImage{
+    height: 250px;
+    width: 250px;
+}
+.discountRate{
+    float: right;
+    color: green;
+}
