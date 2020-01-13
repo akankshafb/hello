@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hello/static/css/main.e5c996c2.chunk.css",
+    "main.js": "/hello/static/js/main.14512246.chunk.js",
+    "main.js.map": "/hello/static/js/main.14512246.chunk.js.map",
+    "runtime-main.js": "/hello/static/js/runtime-main.013379f0.js",
+    "runtime-main.js.map": "/hello/static/js/runtime-main.013379f0.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/hello/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.6f42e0b2.chunk.js": "/hello/static/js/2.6f42e0b2.chunk.js",
+    "static/js/2.6f42e0b2.chunk.js.map": "/hello/static/js/2.6f42e0b2.chunk.js.map",
+    "index.html": "/hello/index.html",
+    "precache-manifest.42bc22cadb46bbb3c8edd94aa68db1c5.js": "/hello/precache-manifest.42bc22cadb46bbb3c8edd94aa68db1c5.js",
+    "service-worker.js": "/hello/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/hello/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e5c996c2.chunk.css.map": "/hello/static/css/main.e5c996c2.chunk.css.map",
+    "static/media/cart.png": "/hello/static/media/cart.fa6be6f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.013379f0.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.6f42e0b2.chunk.js",
+    "static/css/main.e5c996c2.chunk.css",
+    "static/js/main.14512246.chunk.js"
+  ]
+}
